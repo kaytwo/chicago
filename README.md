@@ -37,3 +37,22 @@ These `.zip` archives each contain:
 - The tabular results of the run with the ward-level demographics of each
   districting plan in each of the ensembles, as well as
 - The precinct-to-ward assignments for every districting plan in each ensemble.
+
+
+Installing on Windows:
+
+to get geopandas:
+```
+pip install wheel
+pip install pipwin
+
+pipwin install numpy
+pipwin install pandas
+pipwin install shapely
+pipwin install gdal
+pipwin install fiona
+pipwin install pyproj
+pipwin install six
+pipwin install rtree
+pipwin install geopandas
+```
