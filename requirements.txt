@@ -1,0 +1,6 @@
+descartes
+geopandas
+gerrychain
+ipykernel
+matplotlib
+tqdm
